@@ -1,0 +1,1 @@
+classpath*:amazon10\siva.xml
